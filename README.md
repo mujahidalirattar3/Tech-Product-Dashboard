@@ -1,18 +1,18 @@
-# Tech Product Analytics Dashboard
+# Tech Products Analytics Dashboard
 
-A business intelligence dashboard developed using Microsoft Power BI to analyze sales performance, customer behavior, and business trends through interactive reports.
+A business intelligence dashboard developed using Microsoft Power BI to analyze sales performance, customer behavior, and business trends through interactive reports and visualizations.
 
 ## Overview
 
-This project demonstrates the use of Power BI for transforming raw Excel data into meaningful business insights. The dashboard includes interactive reports, KPI tracking, and data visualizations to support business decision-making.
+This project demonstrates how Microsoft Power BI can transform raw Excel data into meaningful business insights. The dashboard provides an interactive environment for monitoring sales performance, evaluating customer trends, and supporting business decision-making.
 
 ## Objectives
 
 - Analyze monthly sales performance
-- Monitor business KPIs
-- Evaluate customer trends
+- Monitor key business metrics
+- Evaluate customer behavior
 - Identify top-performing products
-- Support data-driven decisions
+- Support data-driven decision making
 
 ## Technologies Used
 
@@ -23,7 +23,7 @@ This project demonstrates the use of Power BI for transforming raw Excel data in
 
 ## Dataset
 
-The dashboard is built using multiple Excel files containing monthly sales records and customer review data.
+The dashboard is built using multiple Excel datasets, including monthly sales records, customer reviews, and supporting business data.
 
 ## Features
 
@@ -32,53 +32,54 @@ The dashboard is built using multiple Excel files containing monthly sales recor
 - Dynamic Filters
 - Slicers
 - Drill-Down Analysis
-- Sales Performance Analysis
+- Sales Performance Tracking
 - Customer Insights
 - Business Trend Analysis
 
-## Demo
+## Dashboard Demonstration
 
-A complete dashboard walkthrough is available in the `Demo` folder.
+The animation below demonstrates the dashboard's functionality and interactive features.
 
-```
-Demo/
-└── Dashboard Demo.mp4
-```
+<p align="center">
+  <img src="Demo/dashboard-demo.gif" alt="Tech Products Sales Analytics Dashboard Demo" width="900">
+</p>
+
+The complete Power BI project is included in this repository as a `.pbix` file.
 
 ## Project Structure
 
-```
-Sales-Analytics-Dashboard/
+```text
+Tech-Product-Dashboard/
 │
 ├── README.md
-├── Sales Analytics Dashboard.pbix
+├── Tech Product Dashboard.pbix
 │
 ├── dataset/
 │   ├── January_24.xlsx
 │   ├── February_24.xlsx
 │   ├── March_24.xlsx
 │   ├── April_24.xlsx
-│   ├── DAX - Customer Reviews.xlsx
+│   ├── DAX - 2 - Customer Reviews.xlsx
 │   └── Other Data.xlsx
 │
 └── Demo/
-    └── Dashboard Demo.mp4
+    └── Dashboard-demo.gif
 ```
 
 ## Business Insights
 
-This dashboard enables users to:
+This dashboard helps users to:
 
-- Track sales performance across different months
+- Monitor monthly sales performance
 - Compare product performance
 - Analyze customer behavior
-- Monitor key business metrics
+- Track business KPIs
 - Generate actionable business insights
 
 ## Getting Started
 
 1. Clone or download this repository.
-2. Open the `.pbix` file in Microsoft Power BI Desktop.
+2. Open the `.pbix` file using Microsoft Power BI Desktop.
 3. Refresh the data if required.
 4. Explore the dashboard using the available filters and visualizations.
 
@@ -88,7 +89,8 @@ This dashboard enables users to:
 
 BS Information Technology
 
-Skills:
+### Skills
+
 - Power BI
 - DAX
 - Power Query
