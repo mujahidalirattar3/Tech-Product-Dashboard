@@ -41,7 +41,7 @@ The dashboard is built using multiple Excel datasets, including monthly sales re
 The animation below demonstrates the dashboard's functionality and interactive features.
 
 <p align="center">
-  <img src="Demo/dashboard-demo.gif" alt="Tech Products Sales Analytics Dashboard Demo" width="900">
+  <img src="Demo/Dashboard.gif" alt="Tech Products Sales Analytics Dashboard Demo" width="900">
 </p>
 
 The complete Power BI project is included in this repository as a `.pbix` file.
