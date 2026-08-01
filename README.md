@@ -63,7 +63,7 @@ Tech-Product-Dashboard/
 │   └── Other Data.xlsx
 │
 └── Demo/
-    └── Dashboard-demo.gif
+    └── Dashboard.gif
 ```
 
 ## Business Insights
